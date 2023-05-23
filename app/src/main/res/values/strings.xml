@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="str_appointments">Novo Compromisso</string>
+    <string name="str_btn_date">Data</string>
+    <string name="str_btn_hour">Hora</string>
+    <string name="str_description">Descrição</string>
+    <string name="str_description_appointments">Descrição do compromisso</string>
+    <string name="str_btn_ok">OK</string>
+    <string name="str_appointments_registers">Meus Compromissos</string>
+    <string name="str_btn_today">Hoje</string>
+    <string name="str_btn_other_date">Outra data</string>
+    <string name="str_show_appointments">Nenhum compromisso cadastrado ainda.</string>
+</resources>
